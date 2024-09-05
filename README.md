@@ -1,4 +1,5 @@
 # revshell.sh
+- revshells from: [Pentestmonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
 ## Installation
 To install the `revshell` script and make it executable system-wide, follow these steps:
