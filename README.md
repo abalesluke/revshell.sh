@@ -18,5 +18,5 @@ To install the `revshell` script and make it executable system-wide, follow thes
 
 ## Oneline Install
 ```
-git clone https://github.com/abalesluke/revshell.sh && sudo cp  revshell.sh/revshell.sh /usr/bin/revshell && sudo chmod +x /usr/bin/revshell && clear && echo "revshell installed!"
+git clone https://github.com/abalesluke/revshell.sh && sudo cp  revshell.sh/revshell.sh /usr/bin/revshell && sudo chmod +x /usr/bin/revshell && clear && echo "revshell installed"
 ```
